@@ -60,7 +60,7 @@
 ```
 student-depression-prediction/
 ├── README.md
-├── main.ipynb
+├── main.ipynb    # 전체 실험 코드 (ipywidgets 포함으로 GitHub Preview 미지원 — Code 탭에서 확인)
 ├── model.pkl
 ```
 
