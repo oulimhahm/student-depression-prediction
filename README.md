@@ -61,9 +61,8 @@
 student-depression-prediction/
 ├── README.md
 ├── main.ipynb          # 전체 실험 코드 (ipywidgets 실시간 시뮬레이터 포함)
-└── model.pkl    
+├── model.pkl           # 학습된 XGBoost 모델
 ```
-
 ---
 
 ## 실험 환경
