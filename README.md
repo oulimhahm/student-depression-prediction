@@ -60,8 +60,9 @@
 ```
 student-depression-prediction/
 ├── README.md
-├── main.ipynb     
+├── main.ipynb
 ├── model.pkl
+```
 
 ---
 
